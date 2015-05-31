@@ -3,8 +3,7 @@ layout: post
 title: Pinkstick fightstick modification
 category: Street Fighter
 
-excerpt: Going over some of the modifications i will be doing with my
-fightstick over the coming months
+excerpt: Going over some of the modifications i will be doing with my fightstick over the next few months.
 ---
 
 I currently play on a Madcatz Soul Calibur 5: Soul Edition fightstick.
