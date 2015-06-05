@@ -24,7 +24,7 @@ point I will cut the top to only have 4 screw holes since I am missing
 a screw and this should give a cleaner look. Finally adding my custom
 artwork underneath.
 <figure>
-	<a href={{ site.url }}/images/2015-05-31-stickart.jpg><img src="{{ site.url }}/images/2015-05-31-stickart.jpg"></a>
+	<img src="{{ site.url }}/images/2015-05-31-stickart.jpg">
 	<figcaption>Fightstick art design, using arts hobbies template</figcaption>
 </figure>
 
