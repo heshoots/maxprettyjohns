@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Vinyl Wrapping your fightstick, the guide
+title: Vinyl Wrap complete, some tips.
 category: Street Fighter
 tags: [vinyl wrap, fightstick, street fighter]
 excerpt: After finishing vinyl wrapping my fightstick, here are some tips to help you on a similiar endevour
 ---
 
 The vinyl wrap on my fightstick is now complete, as you can see in the
-picture above. When I started this there were no guidance on doing
+picture below. When I started this there was no guidance on doing
 this with a fightstick, so I will give some here.
 
 <figure>
@@ -17,7 +17,7 @@ this with a fightstick, so I will give some here.
 
 Firstly, I really recommend watching some of Avalon's "Wrap It Right"
 videos, the advice is great and very helpful with some parts of the
-stick corners and deep channels especially. Also, do not rush it, a
+stick, corners and deep channels especially. Also, do not rush it, a
 good job may take many hours to complete successfully. I spent about 5
 hours on mine rushing towards the end, this lead to some bad results
 and mistakes.
