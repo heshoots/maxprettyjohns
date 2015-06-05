@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Pinkstick fightstick modification
+author: max_prettyjohns
 category: Street Fighter
-
+tags: [street fighter, fightstick]
 excerpt: Going over some of the modifications i will be doing with my fightstick over the next few months.
 ---
 
