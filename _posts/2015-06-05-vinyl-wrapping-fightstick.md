@@ -35,7 +35,7 @@ something to hold on to when heating and stretching, it also leaves
 some to leave over the edge, holding the vinyl in place.
 
 <figure class="third">
-	<img src="/images/fightstick-top.jpg">
+	<img src="/images/fightstick-back.jpg">
 	<img src="/images/fightstick-bottom.jpg">
 	<img src="/images/fightstick-side.jpg">
 	<figcaption>Caption describing these three images.</figcaption>
