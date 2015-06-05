@@ -1,14 +1,40 @@
-# Site settings
-title: Max Prettyjohns
-email: m@xprettyjohns.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hi, i'm Max and this is my personal blog and site, I will
-  post any writing and interesting stuff here!
-pygments: true
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ma.xprettyjohns.com" # the base hostname & protocol for your site
-twitter_username: heshoots
-github_username:  heshoots
+# Site wide configuration
 
-# Build settings
-markdown: kramdown
+title:            Site Title
+locale:           en_US
+url:              
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Max Prettyjohns
+  avatar: bio-photo.png
+  bio: "CS student and video game enthusiast"
+  email: m@xprettyjohns.com
+  twitter: heshoots
+  github: heshoots
+  linkedin: heshoots
+  steam: heshoots
+  youtube: heshoots9999
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
