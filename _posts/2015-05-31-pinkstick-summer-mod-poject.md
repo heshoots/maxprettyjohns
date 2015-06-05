@@ -23,8 +23,10 @@ with the new top or moving it to another area on the stick. At this
 point I will cut the top to only have 4 screw holes since I am missing
 a screw and this should give a cleaner look. Finally adding my custom
 artwork underneath.
-
-![stickart]({{ site.url }}/images/2015-05-31-stickart.jpg)
+<figure>
+	<a href={{ site.url }}/images/2015-05-31-stickart.jpg><img src="{{ site.url }}/images/2015-05-31-stickart.jpg"></a>
+	<figcaption>Fightstick art design, using arts hobbies template</figcaption>
+</figure>
 
 Finally, I will dual mod the stick to allow for ps3 play, I may delay
 this if there has been no news from SF5 with regards to ps3 controller
