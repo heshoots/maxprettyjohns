@@ -1,7 +1,6 @@
 ---
 layout: post
 title: New league of legends research
-author: max_prettyjohns
 modified:
 category: Humor
 tags: [league of legends]
