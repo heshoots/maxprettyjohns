@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:              
+title:            ma.xprettyjohns
+locale:           en_UK
+url:              http://ma.xprettyjohns.com
 
 
 # Jekyll configuration
