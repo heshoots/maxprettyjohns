@@ -2,6 +2,7 @@
 layout: post
 title: Vinyl Wrapping your fightstick, the guide
 category: Street Fighter
+feature: fightstick-feature.jpg
 tags: [vinyl wrap, fightstick, street fighter]
 excerpt: After finishing vinyl wrapping my fightstick, here are some tips to help you on a similiar endevour
 ---
@@ -32,6 +33,13 @@ very little material if you get it wrong. Also make sure you cut much
 more material than you need for each part. This will give you
 something to hold on to when heating and stretching, it also leaves
 some to leave over the edge, holding the vinyl in place.
+
+<figure class="third">
+	<img src="/images/fightstick-top.jpg">
+	<img src="/images/fightstick-bottom.jpg">
+	<img src="/images/fightstick-side.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
 
 Some areas caused me problems and you may want to be a little more
 careful when working on them. The sides were where I started my wrap,
