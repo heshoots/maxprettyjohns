@@ -1,20 +1,23 @@
 ---
 layout: post
-title: Vinyl Wrapping your fightstick, the guide
+title: Vinyl Wrap complete, some tips.
 category: Street Fighter
-image:
-  feature: fightstick-feature.jpg
 tags: [vinyl wrap, fightstick, street fighter]
 excerpt: After finishing vinyl wrapping my fightstick, here are some tips to help you on a similiar endevour
 ---
 
 The vinyl wrap on my fightstick is now complete, as you can see in the
-picture above. When I started this there were no guidance on doing
+picture below. When I started this there was no guidance on doing
 this with a fightstick, so I will give some here.
+
+<figure>
+	<img src="{{ site.url }}/images/fightstick-side.jpg">
+	<figcaption>Side view of finished wrap</figcaption>
+</figure>
 
 Firstly, I really recommend watching some of Avalon's "Wrap It Right"
 videos, the advice is great and very helpful with some parts of the
-stick corners and deep channels especially. Also, do not rush it, a
+stick, corners and deep channels especially. Also, do not rush it, a
 good job may take many hours to complete successfully. I spent about 5
 hours on mine rushing towards the end, this lead to some bad results
 and mistakes.
@@ -35,11 +38,10 @@ more material than you need for each part. This will give you
 something to hold on to when heating and stretching, it also leaves
 some to leave over the edge, holding the vinyl in place.
 
-<figure class="third">
+<figure class="half">
 	<img src="/images/fightstick-back.jpg">
 	<img src="/images/fightstick-bottom.jpg">
-	<img src="/images/fightstick-side.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
+	<figcaption>Some examples of problem areas</figcaption>
 </figure>
 
 Some areas caused me problems and you may want to be a little more
@@ -54,5 +56,10 @@ around the bottom plate. I think it would be better to do these small
 strips early, and then cover the edge with the vinyl from the front
 and back of the bottom piece, I did them last and they do not seem
 very secure.
+
+<figure>
+	<img src="{{ site.url }}/images/fightstick-feature.jpg">
+	<figcaption>Side view of finished wrap</figcaption>
+</figure>
 
 I hope these tips were helpful to you and I hope your wrap goes well!
